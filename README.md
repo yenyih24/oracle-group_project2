@@ -1,3 +1,7 @@
+- Utilized MS-Access for the front-end interface and SQL Server for reliable data storage and backup, along with SQL Server Management Studio for advanced data modeling.
+- Ensured smooth integration of backup processes with SQL Server, enhancing data security and system reliability.
+
+
 # Ski Equipment Rental System
 
 The Ski Equipment Rental System is a sophisticated database-driven application tailored for managing ski and snow equipment rentals. 
